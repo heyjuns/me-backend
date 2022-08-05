@@ -1,0 +1,130 @@
+{
+  "position": "Frontend Engineer",
+  "last_position": "Anteraja HQ",
+  "summary": "Have been working as Professional Front End Engineer for around ~4 years using Angular and Ionic Framework in several fields. Have strong knowledge in Typescript , HTML5, CSS, Bootstrap, Ng-Zorro, Angular, Javascript, CapacitorJS, Cordova, ElectronJS, Websockets, Rest, GIT, Azure, Sprint. Like to collaborate with teams or solo.",
+  "biodata": {
+    "name": "Juanda Leonardo",
+    "dob": "9 July 1996",
+    "phone_number": "089614017881",
+    "email": "juandaleonardo7@gmail.com"
+  },
+  "works": [
+    {
+      "position": "Frontend Engineer",
+      "description": "Developing and bug fixing various product apps under HQ Anteraja Dept using Angular framework v8+, refactoring source legacy code and implementing the best practice to increase performance and to make the code easy to read. Currently developing internal project Inventory Management System with monorepo concept",
+      "location": "PT. Indocyber Global Teknologi",
+      "duration": "1 Sept - Current"
+    },
+    {
+      "position": "Hybrid Mobile Developer",
+      "description": "Maintain hybrid mobile trading apps using ionic framework. Applying coding best practice for reusable and readibility to gain better performance codebase. Creates new features based on user request. Prototyping UI from adobe XD into ionic latest project. Basic Testing",
+      "location": "PT. Tri Ultima Solusindo",
+      "duration": "15 Mar 2018 - 31 Aug 2021"
+    }
+  ],
+  "freelance": [
+    {
+      "position": "Software Developer",
+      "description": "Create desktop apps for event \"Hujan hadiah Si Cepat\" that able to get 1 random number based on lottery numbers for decide a winner. This apps using Technologies from ionic 5, electronjs, Rest API, Google Cloud Platform",
+      "location": "Sicepat Express",
+      "duration": "27 Jul 2020 - 3 Aug 2020"
+    },
+    {
+      "position": "Admin dashboard",
+      "description": "Maintain dashboard website indonesiajewelleryfair.com. Create news page, update photos from recently event that held in surabaya and jakarta. update information for next event",
+      "location": "IJF",
+      "duration": "20 Sep 2019 - 20 Sep 2021"
+    },
+    {
+      "position": "Admin dashboard",
+      "description": "Maintain dashboard website e-commerce musclecarsindonesia.com. Input new product like tshirt and other stuff, maintain product.",
+      "location": "Muscle Car Indonesia",
+      "duration": "20 Sep 2018 - 20 Aug 2019"
+    }
+  ],
+  "educations": [
+    {
+      "majored": "Informatics Engineering",
+      "description": "Learning What and How algorithm work, design pattern and OOP. Self development, and other stuff. Learning about basic programming language like java, matlab, javascript, html. How to work and handle problem in organization and so on. Graduated with IPK 3.5",
+      "institution": "Mercubuana University",
+      "duration": "2014 - 2018"
+    },
+    {
+      "majored": "Multimedia Vocational High School",
+      "description": "Learning how to design with coreldraw and photoshop, how to create animation with flash, and company profile, how to create basic website with dreamweaver. Ever been in a competition \"Lomba Kegiatan Siswa",
+      "institution": "SMK PGRI 1 Tangerang",
+      "duration": "2012 - 2014"
+    }
+  ],
+  "social_media": [
+    {
+      "name": "Github",
+      "url": "https://github.com/heyjuns"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/heyjuns"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/heyjuuns="
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Belajar Dasar Pemrograman Web",
+      "valid_date": "10 Aug 2020 - 10 Aug 2023",
+      "issued_by": "Dicoding",
+      "url": "https://www.dicoding.com/certificates/72ZD28ME9ZYW"
+    },
+    {
+      "name": "Belajar Dasar Pemrograman Web",
+      "valid_date": "10 Aug 2020 - 10 Aug 2023",
+      "issued_by": "Dicoding",
+      "url": "https://www.dicoding.com/certificates/72ZD28ME9ZYW"
+    },
+    {
+      "name": "Belajar Fundamental Frontend Web Development",
+      "valid_date": "20 Aug 2020 - 20 Aug 2023",
+      "issued_by": "Dicoding",
+      "url": "https://www.dicoding.com/certificates/2RVZKVR1OXD5"
+    },
+    {
+      "name": "Membangun Progressive Web Apps",
+      "valid_date": "20 Aug 2020 - 20 Aug 2023",
+      "issued_by": "Dicoding",
+      "url": "https://www.dicoding.com/certificates/0LZ0D9J0RX65"
+    },
+    {
+      "name": "Menjadi Frontend Web Developer Expert",
+      "valid_date": "20 Aug 2020 - 20 Aug 2023",
+      "issued_by": "Dicoding",
+      "url": "https://www.dicoding.com/certificates/MEPJLLOQ6Z3V"
+    }
+  ],
+  "tech_skills": [
+    "Angular",
+    "Ionic",
+    "Typescript",
+    "Javascript",
+    "HTML5",
+    "CSS",
+    "Bootstrap",
+    "Websockets",
+    "RestAPI",
+    "Git",
+    "Azure",
+    "SwaggerUI",
+    "TailwindCSS",
+    "CapacitorJS",
+    "Cordova",
+    ""
+  ],
+  "soft_skills": [
+    "Critical Thinking",
+    "Problem Solving",
+    "Team Work",
+    "Creativity",
+    "Prototyping"
+  ]
+}
