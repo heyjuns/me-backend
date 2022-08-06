@@ -10,13 +10,13 @@
   },
   "works": [
     {
-      "position": "Frontend Engineer",
+      "title": "Frontend Engineer",
       "description": "Developing and bug fixing various product apps under HQ Anteraja Dept using Angular framework v8+, refactoring source legacy code and implementing the best practice to increase performance and to make the code easy to read. Currently developing internal project Inventory Management System with monorepo concept",
       "location": "PT. Indocyber Global Teknologi",
       "duration": "1 Sept - Current"
     },
     {
-      "position": "Hybrid Mobile Developer",
+      "title": "Hybrid Mobile Developer",
       "description": "Maintain hybrid mobile trading apps using ionic framework. Applying coding best practice for reusable and readibility to gain better performance codebase. Creates new features based on user request. Prototyping UI from adobe XD into ionic latest project. Basic Testing",
       "location": "PT. Tri Ultima Solusindo",
       "duration": "15 Mar 2018 - 31 Aug 2021"
@@ -24,19 +24,19 @@
   ],
   "freelance": [
     {
-      "position": "Software Developer",
+      "title": "Software Developer",
       "description": "Create desktop apps for event \"Hujan hadiah Si Cepat\" that able to get 1 random number based on lottery numbers for decide a winner. This apps using Technologies from ionic 5, electronjs, Rest API, Google Cloud Platform",
       "location": "Sicepat Express",
       "duration": "27 Jul 2020 - 3 Aug 2020"
     },
     {
-      "position": "Admin dashboard",
+      "title": "Admin dashboard",
       "description": "Maintain dashboard website indonesiajewelleryfair.com. Create news page, update photos from recently event that held in surabaya and jakarta. update information for next event",
       "location": "IJF",
       "duration": "20 Sep 2019 - 20 Sep 2021"
     },
     {
-      "position": "Admin dashboard",
+      "title": "Admin dashboard",
       "description": "Maintain dashboard website e-commerce musclecarsindonesia.com. Input new product like tshirt and other stuff, maintain product.",
       "location": "Muscle Car Indonesia",
       "duration": "20 Sep 2018 - 20 Aug 2019"
@@ -44,15 +44,15 @@
   ],
   "educations": [
     {
-      "majored": "Informatics Engineering",
+      "title": "Informatics Engineering",
       "description": "Learning What and How algorithm work, design pattern and OOP. Self development, and other stuff. Learning about basic programming language like java, matlab, javascript, html. How to work and handle problem in organization and so on. Graduated with IPK 3.5",
-      "institution": "Mercubuana University",
+      "location": "Mercubuana University",
       "duration": "2014 - 2018"
     },
     {
-      "majored": "Multimedia Vocational High School",
+      "title": "Multimedia Vocational High School",
       "description": "Learning how to design with coreldraw and photoshop, how to create animation with flash, and company profile, how to create basic website with dreamweaver. Ever been in a competition \"Lomba Kegiatan Siswa",
-      "institution": "SMK PGRI 1 Tangerang",
+      "location": "SMK PGRI 1 Tangerang",
       "duration": "2012 - 2014"
     }
   ],
