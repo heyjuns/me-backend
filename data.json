@@ -1,7 +1,7 @@
 {
   "position": "Frontend Engineer",
   "last_position": "Anteraja HQ",
-  "summary": "Have been working as Professional Front End Engineer for around ~4 years using Angular and Ionic Framework in several fields. Have strong knowledge in Typescript , HTML5, CSS, Bootstrap, Ng-Zorro, Angular, Javascript, CapacitorJS, Cordova, ElectronJS, Websockets, Rest, GIT, Azure, Sprint. Like to collaborate with teams or solo.",
+  "summary": "Have been working as Professional Frontend Engineer for around 4 years using Angular and Ionic Framework in several fields. Have strong knowledge in Typescript , HTML5, CSS, Bootstrap, Ng-Zorro, Angular, Javascript, CapacitorJS, Cordova, ElectronJS, Websockets, Rest, GIT, Azure, Sprint. Like to collaborate with teams or solo.",
   "biodata": {
     "name": "Juanda Leonardo",
     "dob": "9 July 1996",
@@ -10,10 +10,16 @@
   },
   "works": [
     {
+      "title": "Medior Frontend Engineer",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere numquam eum, vitae optio cumque ipsam deleniti ea earum asperiores perspiciatis, maiores ipsa adipisci repellendus impedit vel. Saepe, dolore odit? Iste quibusdam molestiae tempore officia veritatis labore nisi quaerat quod ad!",
+      "location": "Aplikasi Super",
+      "duration": "5 Sep 2022 - Current"
+    },
+    {
       "title": "Frontend Engineer",
       "description": "Developing and bug fixing various product apps under HQ Anteraja Dept using Angular framework v8+, refactoring source legacy code and implementing the best practice to increase performance and to make the code easy to read. Currently developing internal project Inventory Management System with monorepo concept",
       "location": "PT. Indocyber Global Teknologi",
-      "duration": "1 Sept - Current"
+      "duration": "1 Sep 2021 - 31 Aug 2022"
     },
     {
       "title": "Hybrid Mobile Developer",
