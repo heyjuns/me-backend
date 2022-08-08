@@ -58,7 +58,7 @@
     },
     {
       "title": "Multimedia Vocational High School",
-      "description": "Learning how to design with coreldraw and photoshop, how to create animation with flash, and company profile, how to create basic website with dreamweaver. Ever been in a competition \"Lomba Kegiatan Siswa",
+      "description": "Learning how to design with coreldraw and photoshop, how to create animation with flash, and company profile, how to create basic website with dreamweaver. Ever been in a competition called Lomba Kegiatan Siswa",
       "location": "SMK PGRI 1 Tangerang",
       "duration": "2012 - 2014"
     }
@@ -132,8 +132,7 @@
     "Azure",
     "SwaggerUI",
     "CapacitorJS",
-    "Cordova",
-    ""
+    "Cordova"
   ],
   "soft_skills": [
     "Critical Thinking",
