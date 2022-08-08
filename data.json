@@ -2,6 +2,7 @@
   "position": "Frontend Engineer",
   "last_position": "Anteraja HQ",
   "summary": "Have been working as Professional Frontend Engineer for around 4 years using Angular and Ionic Framework in several fields. Have strong knowledge in Typescript , HTML5, CSS, Bootstrap, Ng-Zorro, Angular, Javascript, CapacitorJS, Cordova, ElectronJS, Websockets, Rest, GIT, Azure, Sprint. Like to collaborate with teams or solo.",
+  "summary_second":"I have worked as a Professional Front End Engineer for approximately 4 years in various fields. have experience in initializing mobile apps and hybrid web apps. has completed 3 internal Anteraja projects within 8 months. love to learn something new about other development tools. Currently learning more about reactjs, vuejs, svelte, tailwindcss",
   "biodata": {
     "name": "Juanda Leonardo",
     "dob": "9 July 1996",
@@ -64,6 +65,10 @@
   ],
   "social_media": [
     {
+      "name":"LinkedIn",
+      "url":"https://www.linkedin.com/in/juanda-leonardo/"
+    },
+    {
       "name": "Github",
       "url": "https://github.com/heyjuns"
     },
@@ -117,15 +122,15 @@
     "Ionic",
     "Typescript",
     "Javascript",
-    "HTML5",
+    "HTML",
     "CSS",
     "Bootstrap",
+    "TailwindCSS",
     "Websockets",
     "RestAPI",
     "Git",
     "Azure",
     "SwaggerUI",
-    "TailwindCSS",
     "CapacitorJS",
     "Cordova",
     ""
