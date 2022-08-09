@@ -1,7 +1,7 @@
 {
   "biodata": {
     "position": "Frontend Engineer",
-    "last_position": "Anteraja HQ",
+    "last_position": "Aplikasi Super",
     "summary": "Have been working as Professional Frontend Engineer for around 4 years using Angular and Ionic Framework in several fields. Have strong knowledge in Typescript , HTML5, CSS, Bootstrap, Ng-Zorro, Angular, Javascript, CapacitorJS, Cordova, ElectronJS, Websockets, Rest, GIT, Azure, Sprint. Like to collaborate with teams or solo.",
     "second_summary": "Have worked as a Professional Frontend Engineer for approximately 4 years in various fields. Experienced at initializing mobile apps and hybrid web apps. Has completed 3 internal Anteraja projects within 8 months. Like to discuss and love to learn something about other development tools. Currently learning more about reactjs, vuejs, svelte, tailwindcss",
     "name": "Juanda Leonardo",
@@ -42,7 +42,7 @@
   "freelance": [
     {
       "title": "Software Developer",
-      "description": "Create desktop apps for event \"Hujan hadiah Si Cepat\" that able to get 1 random number based on lottery numbers for decide a winner",
+      "description": "Create desktop apps for event \"Hujan hadiah sicepat\" that able to get 1 random number based on lottery numbers for decide a winner",
       "location": "Sicepat Express",
       "duration": "27 Jul 2020 - 3 Aug 2020",
       "skills": ["Ionic", "Angular", "RestAPI"]
